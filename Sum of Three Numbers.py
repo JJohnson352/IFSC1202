@@ -1,4 +1,3 @@
- 
 X= input("first number: ")
 Y= input("second number: ")
 Z= input("third number: ")
