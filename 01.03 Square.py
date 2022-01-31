@@ -1,5 +1,3 @@
-X= input("First Number: ")
-Firstnumber = int(X)
-sqrt(Firstnumber)
-total = sqrt(X) + Firstnumber 
-print(total)
+X= 5.5
+Y= 2
+print(X**Y)
