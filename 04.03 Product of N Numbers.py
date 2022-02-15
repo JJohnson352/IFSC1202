@@ -1,3 +1,5 @@
-X= int(input("firstnumber: "))
-total = 1 * 2 * 3 * 4 * X
-print(total)
+N = int(input("Enter Number: "))
+product = 1
+for i in range (1,N+1):
+    product = product * i
+print(product)
