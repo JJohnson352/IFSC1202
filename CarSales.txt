@@ -1,6 +1,6 @@
 Saab,30936
 Audi,27449
-Aston Martin,23600
+Aston-Martin,23600
 Pontiac,31090
 Chevrolet,27892
 GMC,28483
@@ -29,7 +29,7 @@ Toyota,22142
 Ford,15315
 BMW,22705
 Ford,15101
-Aston Martin,30094
+Aston-Martin,30094
 BMW,17492
 Lincoln,30544
 Dodge,30275
@@ -47,7 +47,7 @@ Chevrolet,26858
 Scion,27789
 Mazda,18307
 Lexus,16226
-Aston Martin,30060
+Aston-Martin,30060
 Pontiac,22472
 Pontiac,33893
 Ford,25040
@@ -88,7 +88,7 @@ Chrysler,26933
 Honda,22478
 Audi,27912
 Mercury,30131
-Aston Martin,16011
+Aston-Martin,16011
 Suzuki,16832
 BMW,22882
 Isuzu,21743
@@ -141,7 +141,7 @@ Hyundai,21702
 Chevrolet,24841
 Mitsubishi,22139
 Mercedes-Benz,25372
-Land Rover,26478
+Land-Rover,26478
 Suzuki,32955
 Toyota,15425
 Dodge,31737
@@ -165,7 +165,7 @@ Chevrolet,24499
 Saab,25230
 Lexus,28464
 Jeep,30532
-Land Rover,21612
+Land-Rover,21612
 Pontiac,31293
 Eagle,23933
 GMC,16963
@@ -211,7 +211,7 @@ Chevrolet,30993
 Toyota,31200
 Isuzu,25109
 Volkswagen,27850
-Land Rover,18293
+Land-Rover,18293
 Isuzu,28468
 Lincoln,15286
 Lotus,16771
@@ -224,7 +224,7 @@ Lotus,26276
 Chevrolet,26126
 Dodge,18241
 Hyundai,19925
-Land Rover,31355
+Land-Rover,31355
 Cadillac,23727
 Infiniti,20150
 Volkswagen,34086
@@ -250,7 +250,7 @@ Ford,21278
 Volvo,21827
 Porsche,22202
 Chevrolet,17705
-Land Rover,24760
+Land-Rover,24760
 Chevrolet,30259
 Chrysler,34908
 Nissan,28307
@@ -286,7 +286,7 @@ Mercedes-Benz,21014
 BMW,30439
 Ford,18925
 Mitsubishi,15676
-Aston Martin,22683
+Aston-Martin,22683
 Cadillac,25535
 Lexus,34230
 Infiniti,19600
@@ -339,7 +339,7 @@ Infiniti,22709
 Infiniti,15940
 Honda,20376
 Audi,23695
-Aston Martin,19420
+Aston-Martin,19420
 Ford,30842
 GMC,27190
 Cadillac,34441
@@ -360,7 +360,7 @@ Oldsmobile,28291
 Mercury,33272
 Toyota,20219
 Dodge,34966
-Aston Martin,15928
+Aston-Martin,15928
 Audi,33448
 Cadillac,17607
 Lincoln,25465
@@ -368,7 +368,7 @@ Toyota,33413
 Volkswagen,34441
 Audi,18935
 Subaru,24737
-Aston Martin,22635
+Aston-Martin,22635
 Kia,26685
 Chevrolet,20128
 Cadillac,27896
@@ -427,7 +427,7 @@ Ford,21819
 Chrysler,24570
 Ford,31030
 Maserati,33976
-Aston Martin,18146
+Aston-Martin,18146
 Pontiac,27632
 Cadillac,27456
 Chevrolet,24705
@@ -448,7 +448,7 @@ Dodge,33213
 Ford,22684
 Toyota,22640
 Hyundai,26542
-Land Rover,18667
+Land-Rover,18667
 Volkswagen,32536
 Audi,23963
 Ford,27362
@@ -461,7 +461,7 @@ Mercury,24787
 Dodge,20157
 Porsche,23903
 Ford,27744
-Land Rover,26111
+Land-Rover,26111
 Volkswagen,33717
 Dodge,25277
 Cadillac,34763
@@ -471,7 +471,7 @@ Ford,31539
 Lincoln,30696
 GMC,24499
 Mazda,24200
-Land Rover,30327
+Land-Rover,30327
 Honda,23326
 Dodge,25460
 GMC,26696
@@ -508,7 +508,7 @@ Buick,22866
 Honda,15759
 Saturn,33741
 Ford,20448
-Land Rover,28214
+Land-Rover,28214
 Dodge,31087
 Ford,17326
 Audi,20253
@@ -580,7 +580,7 @@ Acura,20445
 Nissan,33811
 BMW,21893
 GMC,25578
-Aston Martin,24613
+Aston-Martin,24613
 Mitsubishi,31775
 Dodge,27874
 Volvo,34692
@@ -644,7 +644,7 @@ Ford,25220
 Ford,23520
 BMW,23538
 Audi,24426
-Land Rover,21847
+Land-Rover,21847
 Lexus,30727
 Jeep,26142
 Infiniti,32465
@@ -704,8 +704,8 @@ Mercedes-Benz,18950
 Dodge,29379
 Porsche,23394
 Toyota,16229
-Land Rover,34876
-Land Rover,18698
+Land-Rover,34876
+Land-Rover,18698
 Mercedes-Benz,29481
 Ford,31186
 Cadillac,23868
@@ -779,7 +779,7 @@ Chevrolet,29849
 Mercedes-Benz,32288
 Lexus,18994
 Mercedes-Benz,29339
-Aston Martin,28079
+Aston-Martin,28079
 Acura,15631
 Infiniti,23491
 Dodge,26960
@@ -997,4 +997,4 @@ Suzuki,32579
 BMW,17445
 Isuzu,17938
 Ford,31605
-Aston Martin,33729
+Aston-Martin,33729

@@ -21,8 +21,8 @@ while x != "":
 
 print_list(a)
 
-i = 1
-j = 4
+i = 0
+j = 5
 
 swap_columns(a, i, j)
 print_list(a)
