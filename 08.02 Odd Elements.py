@@ -1,8 +1,5 @@
-a = "1 20 30 3 40 50 9 11 "
-b = a.split()
-c = odd 
-odd = 1 , 3, 9, 11
-for i in range(len(b)):
-    b[i] = int(b[i])
-for i in range(len(b)):
-    print(b[i])
+s = input("Enter Values Separated by Space: ")
+list1 = s.split(" ")
+for x in range(len(list1)):
+    if int(list1[x])%2==1:
+        print(list1[x])

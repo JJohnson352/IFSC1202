@@ -1,7 +1,6 @@
-s = input("Enter Values Separated By Spaces: ")
-a = "1 3 5 7 9"
-b = a.split()
-for i in range(len(b)):
-    b[i] = int(b[i])
-for i in range(len(b)):
-    print(b[i]) 
+str_input = input("Enter Values Separated by Spaces: ")
+list_input = list(map(int, str_input.split()))
+
+for i in range(len(list_input)):
+    if i%2 != 0:
+        print(list_input[i])
